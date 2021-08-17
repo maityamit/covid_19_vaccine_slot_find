@@ -112,9 +112,18 @@ public class ResultShowActivity extends AppCompatActivity {
 
                             }
 
-                            myCustomAdapter = new MyCustomAdapter(ResultShowActivity.this,countryModelsList);
-                            listView.setAdapter(myCustomAdapter);
-                            progressDialog.dismiss();
+                           
+                            if (stringy.equals("[]")){
+                                Toast.makeText(ResultShowActivity.this, "There is No Vaccination ! Sorry", Toast.LENGTH_SHORT).show();
+                                //Here You can add any function you want , i only add here a Toast Message Only.
+                                progressDialog.dismiss();
+                            }
+
+                            else {
+                                myCustomAdapter = new MyCustomAdapter(ResultShowActivity.this,countryModelsList);
+                                listView.setAdapter(myCustomAdapter);
+                                progressDialog.dismiss();
+                            }
 
 
 
