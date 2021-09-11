@@ -7,9 +7,13 @@ Covid 19 Vaccine Slot Available application 📱 built using Java ♨️ and sho
 3. You can see every parameter
 4. Check your vacine aviability
 
+apk_sownload
+
 # Download the Apk
 
-Get Apk [Download here📱 ](https://drive.google.com/file/d/1bSiO13LAU5NEyg6Hj9WSK1Sv1PNWO3a7/view?usp=sharing)
+Download Apk 
+
+ <a href="https://drive.google.com/file/d/1bSiO13LAU5NEyg6Hj9WSK1Sv1PNWO3a7/view?usp=sharing" target="_blank"> <img src="https://github.com/maityamit/covid_19_vaccine_slot_find/blob/master/Demo/apk_sownload.jpg" alt="Java" width="90" height="50"/> </a>
 
 ## ⚙️ Technology Used
 
