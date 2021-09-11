@@ -7,7 +7,7 @@ Covid 19 Vaccine Slot Available application 📱 built using Java ♨️ and sho
 3. You can see every parameter
 4. Check your vacine aviability
 
-apk_sownload
+
 
 # Download the Apk
 
